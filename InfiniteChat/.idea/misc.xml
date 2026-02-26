@@ -1,0 +1,31 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/AuthenticationService/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/GateWay/pom.xml" />
+        <option value="$PROJECT_DIR$/RealTimeCommunicationService/pom.xml" />
+        <option value="$PROJECT_DIR$/RealTimeCommunicationServier/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/ContanctService/pom.xml" />
+        <option value="$PROJECT_DIR$/MessagingService/pom.xml" />
+        <option value="$PROJECT_DIR$/MessageingService/pom.xml" />
+        <option value="$PROJECT_DIR$/MessagingService1/pom.xml" />
+        <option value="$PROJECT_DIR$/OfflineDataStoreService/pom.xml" />
+        <option value="$PROJECT_DIR$/MomentService/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/MessagingService/pom.xml" />
+        <option value="$PROJECT_DIR$/MessagingService1/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
